@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(74, 73, 74);
+}
+#combine{
+    display: flex;
+    position: relative;
+}
+.container{
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    float: right;
+}
+#containe{
+    display: block;
+    position: fixed;
+    float: left;
+}
+#box,#box2,#box1{
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+#btn{
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#logo{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
